@@ -1,0 +1,69 @@
+[
+    {
+        "categorie": "0-$10k", 
+        "values": [
+            {
+                "value": 15, 
+                "rate": "Transgender Population"
+            }, 
+            {
+                "value": 4, 
+                "rate": "General Population"
+            }
+        ]
+    },
+    
+    {
+        "categorie": "$10k-$20k", 
+        "values": [
+            {
+                "value": 12, 
+                "rate": "Transgender Population"
+            }, 
+            {
+                "value": 9, 
+                "rate": "General Population"
+            }
+        ]
+    },
+    {
+        "categorie": "$20k-$50k", 
+        "values": [
+            {
+                "value": 32, 
+                "rate": "Transgender Population"
+            }, 
+            {
+                "value": 28, 
+                "rate": "General Population"
+            }
+        ]
+    },
+        {
+        "categorie": "$50k-$100k", 
+        "values": [
+            {
+                "value": 27, 
+                "rate": "Transgender Population"
+            }, 
+            {
+                "value": 33, 
+                "rate": "General Population"
+            }
+        ]
+    },
+        {
+        "categorie": "$100k+", 
+        "values": [
+            {
+                "value": 14, 
+                "rate": "Transgender Population"
+            }, 
+            {
+                "value": 25, 
+                "rate": "General Population"
+            }
+        ]
+    },
+    
+]
